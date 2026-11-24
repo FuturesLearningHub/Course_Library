@@ -1,3 +1,8 @@
+> **This repository has moved.** The library now lives in
+> [FuturesLearningHub/FLH-Learning-Library-](https://github.com/FuturesLearningHub/FLH-Learning-Library-),
+> live at https://flh-learning-library.vercel.app/. Make changes there; this copy is kept
+> read-only for reference.
+
 # The Vanderbilt Staff Learning Collection
 
 The catalog for the **Learning on Demand** program: live, interactive
